@@ -96,3 +96,7 @@ High School English Teacher – Epp Mhinga Secondary School
 **Mrs NL Khosa**  
 Choir Coach  
 📞 079 913 6836  
+
+## 🎥 Mock Interview Video
+
+[Click here to watch my mock interview](https://drive.google.com/file/d/1zMQqQ8hYBvYtQgOQ6OnVe5LG5je33T3i/view?usp=sharing)
