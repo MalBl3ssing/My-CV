@@ -97,8 +97,8 @@ High School English Teacher – Epp Mhinga Secondary School
 Choir Coach  
 📞 079 913 6836  
 
-## 🎥 Mock Interview Video
+<h2>🎥 Mock Interview Video</h2>
 
 <video width="600" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="./video.mp4" type="video/mp4">
 </video>
