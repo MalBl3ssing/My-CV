@@ -99,4 +99,6 @@ Choir Coach
 
 ## 🎥 Mock Interview Video
 
-<video src="mock-interview.mp4" controls width="600"></video>
+<video width="600" controls>
+  <source src="video.mp4" type="video/mp4">
+</video>
