@@ -102,3 +102,48 @@ Choir Coach
 <video width="600" controls>
   <source src="./video.mp4" type="video/mp4">
 </video>
+
+---
+
+## Reflections
+### Coding in Markdown 
+
+**Situation:**  
+As part of building my GitHub portfolio, I needed to learn how to present my work using Markdown, a format I had limited experience with.
+
+**Task:**  
+I was required to structure my CV, project descriptions, and documentation in a clean and professional way using Markdown syntax.
+
+**Action:**  
+I learned how to use Markdown by practicing formatting techniques such as headings, lists, code blocks, and links. I applied this knowledge to structure my README files and portfolio content clearly and consistently.
+
+**Result:**  
+I developed the ability to present technical work in a professional and readable format. This improved both my documentation skills and my understanding of how developers communicate effectively on platforms like GitHub.
+
+### 🎤 Mock Interview 
+
+**Situation:**  
+I participated in a mock interview as part of my work readiness training to simulate a real job interview environment.
+
+**Task:**  
+I needed to present myself professionally, answer technical and personal questions, and demonstrate my understanding of my projects and skills.
+
+**Action:**  
+I prepared by reviewing my projects and practicing how to explain my work clearly. During the interview, I focused on communicating confidently and structuring my answers logically.
+
+**Result:**  
+I gained confidence in speaking about my skills and experiences. I also identified areas for improvement, such as being more concise and refining how I present my technical knowledge.
+
+### 🌐 GitHub Pages 
+
+**Situation:**  
+I was required to publish my digital portfolio using GitHub Pages, which was a new experience for me.
+
+**Task:**  
+My goal was to create a professional, accessible online portfolio that showcases my skills, projects, and development progress.
+
+**Action:**  
+I learned how to configure GitHub Pages and structure my repository so that it could be deployed as a website. I ensured my content was organized, visually clear, and easy to navigate.
+
+**Result:**  
+I successfully published my portfolio online, making it accessible to others. This improved my understanding of deploying projects and presenting my work in a professional, real-world format.
