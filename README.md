@@ -58,6 +58,8 @@ National Senior Certificate *(Dec 2021)*
 ---
 
 ### 📈 Workforce & Unemployment Dashboard (Power BI)  — *Dec 2025*
+https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/powerbi-projects/unemployment-dashboard
+
 **Tools:** Power BI, SQL  
 - Built an interactive dashboard to visualize unemployment trends  
 - Cleaned and transformed data using Power Query  
