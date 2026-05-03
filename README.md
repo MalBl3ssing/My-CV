@@ -48,6 +48,8 @@ National Senior Certificate *(Dec 2021)*
 ## 💼 Projects
 
 ### 📊 Economic Indicators Analysis (SQL) — *Jan 2026*
+https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/sql-projects/economic-indicators-analysis
+
 **Tools:** MySQL Workbench  
 - Analysed multi-country economic datasets using advanced SQL (joins, aggregations, subqueries)  
 - Applied CASE statements and window functions (AVG, RANK) to identify trends  
