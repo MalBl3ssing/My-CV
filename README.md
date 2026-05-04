@@ -48,7 +48,7 @@ National Senior Certificate *(Dec 2021)*
 ## 💼 Projects
 
 ### 📊 Economic Indicators Analysis (SQL) — *Jan 2026*
-* [Economic Indicators Analysis](https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/sql-projects/economic-indicators-analysis)
+* [https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/sql-projects/economic-indicators-analysis](https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/sql-projects/economic-indicators-analysis)
 
 **Tools:** MySQL Workbench  
 - Analysed multi-country economic datasets using advanced SQL (joins, aggregations, subqueries)  
@@ -60,7 +60,7 @@ National Senior Certificate *(Dec 2021)*
 ---
 
 ### 📈 Workforce & Unemployment Dashboard (Power BI)  — *Dec 2025*
-* [Workforce & Unemployment Dashboard](https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/powerbi-projects/unemployment-dashboard)
+* [https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/powerbi-projects/unemployment-dashboard](https://github.com/MalBl3ssing/malwandla-mahori-portfolio/tree/main/powerbi-projects/unemployment-dashboard)
 
 **Tools:** Power BI, SQL  
 - Built an interactive dashboard to visualize unemployment trends  
@@ -73,7 +73,7 @@ National Senior Certificate *(Dec 2021)*
 ---
 
 ### 💻 Second-Hand Marketplace Application (Java) — *Feb 2025 - Nov 2025*
-* [Second-Hand Book & Device Exchange Platform](https://github.com/MalBl3ssing/Secondhand-Exchange-Platform)
+* [https://github.com/MalBl3ssing/Secondhand-Exchange-Platform](https://github.com/MalBl3ssing/Secondhand-Exchange-Platform)
 
 **Tools:** Java, OOP  
 - Developed a console-based marketplace application  
