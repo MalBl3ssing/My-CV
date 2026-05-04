@@ -73,7 +73,7 @@ National Senior Certificate *(Dec 2021)*
 ---
 
 ### 💻 Second-Hand Marketplace Application (Java) — *Feb 2025 - Nov 2025*
-* [https://github.com/MalBl3ssing/Secondhand-Exchange-Platform](https://github.com/MalBl3ssing/Secondhand-Exchange-Platform)
+* [https://github.com/MalBl3ssing/Secondhand-Exchange-Platform](https://github.com/MalBl3ssing/SecondHandMarketplace/tree/master)
 
 **Tools:** Java, OOP  
 - Developed a console-based marketplace application  
